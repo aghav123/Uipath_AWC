@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  karan
+  Karan Aghav
 
 steps:
 - script: echo Hello, world!
